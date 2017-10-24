@@ -1,0 +1,9 @@
+EAL: Probing VFIO support...
+EAL: PCI device 0000:00:03.0 on NUMA socket -1
+EAL:   probe driver: 8086:100e net_e1000_em
+EAL: PCI device 0000:00:08.0 on NUMA socket -1
+EAL:   probe driver: 8086:100e net_e1000_em
+EAL: PCI device 0000:00:09.0 on NUMA socket -1
+EAL:   probe driver: 8086:100e net_e1000_em
+EAL: PCI device 0000:00:0a.0 on NUMA socket -1
+EAL:   probe driver: 8086:100e net_e1000_em
